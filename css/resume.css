@@ -217,3 +217,7 @@ a:hover, a:focus, a:active {
 .colorHead{
   color: #0008;
 }
+
+.portfolio-image{
+  width: 100%;
+}
